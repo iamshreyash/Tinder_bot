@@ -6,8 +6,8 @@ Tinder is an American geosocial networking and online dating application that al
 
   * Python 3.7
   * Django 2.2.8
-  * selenium
-  * gunicorn
+  * Selenium
+  * Gunicorn
   * ChromeDriver
 
 ## Setting up the Project
